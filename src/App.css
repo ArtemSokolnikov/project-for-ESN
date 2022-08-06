@@ -128,3 +128,7 @@ width: 90%;
   justify-content: space-between;
 
 }
+
+.gameOver{
+  color: black;
+}
